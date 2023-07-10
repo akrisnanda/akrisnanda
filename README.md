@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @akrisnanda
-- 👀 I’m interested in PHP and other programming language
+- 👀 I’m a Software Developer Profesional with 15 years experience.
+- 💞️ I'm freak of PHP and other programming language
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 contact me at: andry.krisnanda@gmail.com
 
 <!---
 akrisnanda/akrisnanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
