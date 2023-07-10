@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akrisnanda
 - 👀 I’m a Software Developer Profesional with 15 years experience.
 - 💞️ I'm freak of PHP and other programming language
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning BlockChain developer
 - 📫 contact me at: andry.krisnanda@gmail.com
 
 <!---
